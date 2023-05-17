@@ -1,0 +1,20 @@
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\bin\Debug\net7.0-windows\E4mini Admin tool.exe
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\bin\Debug\net7.0-windows\E4mini Admin tool.deps.json
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\bin\Debug\net7.0-windows\E4mini Admin tool.runtimeconfig.json
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\bin\Debug\net7.0-windows\E4mini Admin tool.dll
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\bin\Debug\net7.0-windows\E4mini Admin tool.pdb
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini Admin tool.csproj.AssemblyReference.cache
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini_Admin_tool.Form1.resources
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini_Admin_tool.FormTorgPar.resources
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini_Admin_tool.FormValCr.resources
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini Admin tool.csproj.GenerateResource.cache
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini Admin tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini Admin tool.AssemblyInfoInputs.cache
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini Admin tool.AssemblyInfo.cs
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini Admin tool.csproj.CoreCompileInputs.cache
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini Admin tool.dll
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\refint\E4mini Admin tool.dll
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini Admin tool.pdb
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini Admin tool.genruntimeconfig.cache
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\ref\E4mini Admin tool.dll
+D:\c#\KP\E4mini Admin tool\E4mini Admin tool\obj\Debug\net7.0-windows\E4mini_Admin_tool.FormAu.resources
